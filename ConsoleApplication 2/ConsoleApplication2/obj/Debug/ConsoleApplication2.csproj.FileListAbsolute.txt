@@ -10,3 +10,9 @@ P:\cfg\profile.V2\Documents\Visual Studio 2012\Projects\ConsoleApplication2\Cons
 P:\cfg\profile.V2\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
 P:\cfg\profile.V2\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
 P:\cfg\profile.V2\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+P:\Csharp\1.2-rita-med-asterisker\ConsoleApplication 2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+P:\Csharp\1.2-rita-med-asterisker\ConsoleApplication 2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+P:\Csharp\1.2-rita-med-asterisker\ConsoleApplication 2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+P:\Csharp\1.2-rita-med-asterisker\ConsoleApplication 2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+P:\Csharp\1.2-rita-med-asterisker\ConsoleApplication 2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+P:\Csharp\1.2-rita-med-asterisker\ConsoleApplication 2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
