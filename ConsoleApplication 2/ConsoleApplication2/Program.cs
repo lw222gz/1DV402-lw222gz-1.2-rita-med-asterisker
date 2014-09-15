@@ -16,7 +16,6 @@ namespace ConsoleApplication2
             
             for (int i = 0; i < 25; i++)
             {
-
                                
                 if (värde > 2)
                 {
@@ -36,8 +35,7 @@ namespace ConsoleApplication2
                         break;                   
                 }
                 ++värde;
-                
-                
+                                
                 for (int j = 0; j < 39; j++)
                 {                   
                     Console.Write("* ");
@@ -45,21 +43,13 @@ namespace ConsoleApplication2
                 
                 Console.WriteLine();
                 
-
                 if (i % 2 == 0)
                 {
                     Console.Write(" ");
-                }
-                
-             
-        
+                }                                    
              }
-            Console.ResetColor();
-                
-        
-             
-            
 
+            Console.ResetColor();                                                 
         }
     }
 }
